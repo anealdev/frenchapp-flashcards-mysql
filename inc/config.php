@@ -6,7 +6,6 @@
   }
 
 include_once "classes/DB.php";
-//include_once "classes/Filter.php";
 include_once "classes/Cleaner.php";
 include_once "classes/User.php";
 include_once "functions.php";  //Could not get dashboard.php to find this file through config.php
